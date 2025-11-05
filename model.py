@@ -31,4 +31,4 @@ if __name__ == "__main__":
     dummy_input = torch.randn(1,1,28,28)
     output = model(dummy_input)
     print(f"Output shape: {output.shape}")
-    
+    #check testing stuff
